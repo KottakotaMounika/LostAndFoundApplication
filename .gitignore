@@ -1,0 +1,14 @@
+# Ignore Eclipse workspace files
+CampusManagement/.metadata/
+CampusManagement/.classpath
+CampusManagement/.project
+CampusManagement/.settings/
+*.log
+
+# Ignore node_modules (React)
+campus-front/node_modules/
+campus-front/.env
+
+# General ignores
+.DS_Store
+Thumbs.db
